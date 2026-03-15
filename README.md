@@ -7,6 +7,7 @@ from my courses at UOC.
 
 ## Contents
 - Git exercises
+- DOM
 - Drupal coursework
 - Laravel coursework
 - Web development study materials
