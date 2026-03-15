@@ -1,5 +1,4 @@
 
-    </script>
   </head>
   <body>
     <h1>Hey</h1>
